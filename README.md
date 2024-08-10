@@ -1,8 +1,7 @@
 # CODSOFT INTERNSHIP
 
-### DOMAIN: DATA SCIENCE
+### DOMAIN: Data Science
 
-### TASK 5 - CREDIT CARD FRAUD DETECTION
+### TASK 5: Credit card Fraud Detection
 
-
-
+### DATASET: Kaggle
